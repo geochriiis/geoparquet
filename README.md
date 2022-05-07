@@ -1,6 +1,6 @@
 # Geoparquet
 
-Geoprocessing with .geoparquet files
+Geoprocessing with `.geoparquet` files ([documentation and how to install](https://pypi.org/project/geoparquet/))
 
 Files<br>|<br>| _ testing.ipynb (tests a simple import of a shapefile and export in `.geoparquet`)
 
