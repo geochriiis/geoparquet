@@ -1,8 +1,8 @@
 # Geoparquet
 
-Geoprocessing with `.geoparquet` files ([documentation and how to install](https://pypi.org/project/geoparquet/))
+Geoprocessing with `.parquet` files ([documentation and how to install](https://pypi.org/project/geoparquet/)). Timing comparisons when reading/writing `.parquet` against `.shp` and `GPKG` can been seen at [jorisvandenbossche/geopandas-parquet-timings.ipynb](https://gist.github.com/jorisvandenbossche/ccd34426d7fe182c929089b6cd4557ac#file-geopandas-parquet-timings-ipynb)
 
-Files<br>|<br>| _ testing.ipynb (tests a simple import of a shapefile and export in `.geoparquet`)
+Files<br>|<br>| _ testing.ipynb (tests a simple import of a shapefile and export in `.parquet`) -- useful link
 
 Currently known libraries that can read and write GeoParquet files:
 
